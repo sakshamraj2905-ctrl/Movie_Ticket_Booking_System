@@ -34,7 +34,7 @@ How to Run the Project
 
 1. Clone the Repository
 
-git clone https://github.com/sakshamraj2905-ctrl/Movie-Ticket-Booking-System.git
+git clone https://github.com/sakshamraj2905-ctrl/Movie_Ticket_Booking_System.git
 
 2. Open the Project Folder
 

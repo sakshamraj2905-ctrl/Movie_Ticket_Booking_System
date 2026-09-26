@@ -53,7 +53,7 @@ If your system uses the python3 command, use:
 python3 --version
 2. Get the Project
 Clone the GitHub repository using:
-git clone 
+git clone https://github.com/sakshamraj2905-ctrl/Movie_Ticket_Booking_System
 Then open the project directory:
 cd Movie_Ticket_Booking_System
 Alternatively, the repository can be downloaded as a ZIP file from GitHub and extracted.

@@ -55,7 +55,7 @@ python3 --version
 Clone the GitHub repository using:
 git clone 
 Then open the project directory:
-cd YOUR-REPOSITORY-NAME
+cd Movie_Ticket_Booking_System
 Alternatively, the repository can be downloaded as a ZIP file from GitHub and extracted.
 Project Structure
 Movie-Ticket-Booking/

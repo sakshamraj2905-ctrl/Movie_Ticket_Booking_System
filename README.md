@@ -21,6 +21,8 @@ The project is developed using basic Python concepts and can be executed directl
 - Generate a Booking ID
 - Display ticket confirmation
 - View booking details
+- cancel a booked ticket
+- Make the cancelled seat available again
 - Terminal-based execution
 
 ## Technologies Used
@@ -58,7 +60,7 @@ Then open the project directory:
 cd Movie_Ticket_Booking_System
 Alternatively, the repository can be downloaded as a ZIP file from GitHub and extracted.
 Project Structure
-Movie-Ticket-Booking/
+Movie_Ticket_Booking_System/
 │
 ├── main.py
 └── README.md
